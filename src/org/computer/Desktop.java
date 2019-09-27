@@ -9,6 +9,7 @@ public static void main(String[] args) {
 	Desktop s=new Desktop();
 	s.desktopSize();
 	s.computerModel();
+System.out.println("code resolution");
 }
 }
  
